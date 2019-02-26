@@ -1,3 +1,5 @@
-import settings from "./settings";
+import BOARDS from './boards';
 
-export { settings }
+export {
+    BOARDS
+}
